@@ -1,5 +1,5 @@
 # AngularJS2-Samples
-Hands on example of AngularJS2 
+Hands on example of Angular2 
 
 ## How to run
 
